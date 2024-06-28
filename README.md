@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cronos Mobile and Mentors<br>👯 I’m looking to collaborate on Angular projects.<br>🌱 
+🔭 I’m currently working on Mentors<br>👯 I’m looking to collaborate on Angular projects.<br>🌱 
 
 
 ## 🌐 Socials:
